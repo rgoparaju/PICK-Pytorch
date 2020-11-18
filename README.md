@@ -1,3 +1,4 @@
+# Credit belongs to Wenwen Yu, et. al
 # PICK-PyTorch
 **\*\*\*\*\* Updated on Sep 17th, 2020: A training example on the large-scale document understanding dataset, 
 [DocBank](https://doc-analysis.github.io/docbank-page/), 
